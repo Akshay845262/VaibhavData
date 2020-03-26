@@ -1,0 +1,7 @@
+D:\C#\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+D:\C#\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+D:\C#\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+D:\C#\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csprojResolveAssemblyReference.cache
+D:\C#\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\C#\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+D:\C#\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb

@@ -1,0 +1,31 @@
+﻿@model string
+@{
+    Layout = null;
+}
+@helper ListArrayItems(string[] items,string Name)
+    {
+    <div>
+        Here are your @Name :
+        @foreach (string item in items)
+        {
+        <b>@item</b>
+        }
+    </div>
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>InlineHelper</title>
+</head>
+<body>
+        @ListArrayItems(ViewBag.Fruits,"Fruits")
+        @ListArrayItems(ViewBag.Cities,"Cities")
+    <div>
+        Here is the message:
+        <p>@Model</p>
+    </div>
+    
+</body>
+</html>

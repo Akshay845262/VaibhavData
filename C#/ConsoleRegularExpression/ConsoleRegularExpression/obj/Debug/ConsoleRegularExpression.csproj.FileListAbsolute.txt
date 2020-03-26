@@ -1,0 +1,7 @@
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\bin\Debug\ConsoleRegularExpression.exe.config
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\bin\Debug\ConsoleRegularExpression.exe
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\bin\Debug\ConsoleRegularExpression.pdb
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\obj\Debug\ConsoleRegularExpression.csprojResolveAssemblyReference.cache
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\obj\Debug\ConsoleRegularExpression.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\obj\Debug\ConsoleRegularExpression.exe
+D:\C#\ConsoleRegularExpression\ConsoleRegularExpression\obj\Debug\ConsoleRegularExpression.pdb

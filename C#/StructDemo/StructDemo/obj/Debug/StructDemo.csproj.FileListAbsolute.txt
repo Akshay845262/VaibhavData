@@ -1,0 +1,7 @@
+D:\C#\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
+D:\C#\StructDemo\StructDemo\bin\Debug\StructDemo.exe
+D:\C#\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
+D:\C#\StructDemo\StructDemo\obj\Debug\StructDemo.csprojResolveAssemblyReference.cache
+D:\C#\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+D:\C#\StructDemo\StructDemo\obj\Debug\StructDemo.exe
+D:\C#\StructDemo\StructDemo\obj\Debug\StructDemo.pdb

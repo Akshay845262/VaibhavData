@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+    <P>The Sort() method sorts an array alphabetically.</P>
+    <button onclick="myFunction()">Try It</button>
+    <p id="demo"></p>
+    <script>
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+        document.getElementByID("demo").innerHTML = fruits;
+
+        function myFunction()
+        {
+            fruits.sort();
+            document.getElementById("demo").innerHTML = fruits;
+        }
+    </script>
+</body>
+</html>

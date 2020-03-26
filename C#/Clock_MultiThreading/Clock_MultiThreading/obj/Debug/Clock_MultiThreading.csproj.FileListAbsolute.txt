@@ -1,0 +1,7 @@
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\bin\Debug\Clock_MultiThreading.exe.config
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\bin\Debug\Clock_MultiThreading.exe
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\bin\Debug\Clock_MultiThreading.pdb
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\obj\Debug\Clock_MultiThreading.csprojResolveAssemblyReference.cache
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\obj\Debug\Clock_MultiThreading.csproj.CoreCompileInputs.cache
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\obj\Debug\Clock_MultiThreading.exe
+D:\C#\Clock_MultiThreading\Clock_MultiThreading\obj\Debug\Clock_MultiThreading.pdb

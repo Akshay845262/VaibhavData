@@ -1,0 +1,6 @@
+D:\C#\MathConsole\MathConsole\bin\Debug\MathConsole.exe.config
+D:\C#\MathConsole\MathConsole\bin\Debug\MathConsole.exe
+D:\C#\MathConsole\MathConsole\bin\Debug\MathConsole.pdb
+D:\C#\MathConsole\MathConsole\obj\Debug\MathConsole.csproj.CoreCompileInputs.cache
+D:\C#\MathConsole\MathConsole\obj\Debug\MathConsole.exe
+D:\C#\MathConsole\MathConsole\obj\Debug\MathConsole.pdb

@@ -1,0 +1,15 @@
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EFCodeFirstApp.exe.config
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EFCodeFirstApp.exe
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EFCodeFirstApp.pdb
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.dll
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.xml
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csprojResolveAssemblyReference.cache
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csproj.CoreCompileInputs.cache
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.exe
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.pdb
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.Migrations.ProductsDB.resources
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.csproj.GenerateResource.Cache
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.Migrations.AddFirstProduct.resources
+D:\C#\EFCodeFirstApp\EFCodeFirstApp\obj\Debug\EFCodeFirstApp.Migrations.DeleteRecords.resources

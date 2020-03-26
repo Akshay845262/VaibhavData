@@ -1,0 +1,7 @@
+D:\C#\ConsoleDateTime\ConsoleDateTime\bin\Debug\ConsoleDateTime.exe.config
+D:\C#\ConsoleDateTime\ConsoleDateTime\bin\Debug\ConsoleDateTime.exe
+D:\C#\ConsoleDateTime\ConsoleDateTime\bin\Debug\ConsoleDateTime.pdb
+D:\C#\ConsoleDateTime\ConsoleDateTime\obj\Debug\ConsoleDateTime.csprojResolveAssemblyReference.cache
+D:\C#\ConsoleDateTime\ConsoleDateTime\obj\Debug\ConsoleDateTime.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleDateTime\ConsoleDateTime\obj\Debug\ConsoleDateTime.exe
+D:\C#\ConsoleDateTime\ConsoleDateTime\obj\Debug\ConsoleDateTime.pdb

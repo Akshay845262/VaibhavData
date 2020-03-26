@@ -1,0 +1,11 @@
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EFDBFirstConsoleApp.exe.config
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EFDBFirstConsoleApp.exe
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EFDBFirstConsoleApp.pdb
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EntityFramework.dll
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EntityFramework.xml
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\obj\Debug\EFDBFirstConsoleApp.csprojResolveAssemblyReference.cache
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\obj\Debug\EFDBFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\obj\Debug\EFDBFirstConsoleApp.exe
+D:\C#\EFDBFirstConsoleApp\EFDBFirstConsoleApp\obj\Debug\EFDBFirstConsoleApp.pdb

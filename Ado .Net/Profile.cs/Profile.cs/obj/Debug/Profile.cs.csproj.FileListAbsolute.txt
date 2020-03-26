@@ -1,0 +1,10 @@
+D:\C#\Profile.cs\Profile.cs\bin\Debug\Profile.cs.exe.config
+D:\C#\Profile.cs\Profile.cs\bin\Debug\Profile.cs.exe
+D:\C#\Profile.cs\Profile.cs\bin\Debug\Profile.cs.pdb
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.csprojResolveAssemblyReference.cache
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.StudentProfile.resources
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.Properties.Resources.resources
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.csproj.GenerateResource.Cache
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.csproj.CoreCompileInputs.cache
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.exe
+D:\C#\Profile.cs\Profile.cs\obj\Debug\Profile.cs.pdb

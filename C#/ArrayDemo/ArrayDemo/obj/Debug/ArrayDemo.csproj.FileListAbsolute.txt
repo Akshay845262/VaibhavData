@@ -1,0 +1,7 @@
+D:\C#\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+D:\C#\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe
+D:\C#\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.pdb
+D:\C#\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csprojResolveAssemblyReference.cache
+D:\C#\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\C#\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
+D:\C#\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb

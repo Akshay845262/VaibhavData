@@ -1,0 +1,6 @@
+D:\C#\MlevelDemo\MlevelDemo\bin\Debug\MlevelDemo.exe.config
+D:\C#\MlevelDemo\MlevelDemo\bin\Debug\MlevelDemo.exe
+D:\C#\MlevelDemo\MlevelDemo\bin\Debug\MlevelDemo.pdb
+D:\C#\MlevelDemo\MlevelDemo\obj\Debug\MlevelDemo.csproj.CoreCompileInputs.cache
+D:\C#\MlevelDemo\MlevelDemo\obj\Debug\MlevelDemo.exe
+D:\C#\MlevelDemo\MlevelDemo\obj\Debug\MlevelDemo.pdb

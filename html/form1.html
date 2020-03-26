@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Arithmetic operations</title>
+</head>
+<script type="text/javascript">
+function maths(a,b)
+{
+var n=document.getElementById('value3').value;
+a=parseInt(a);
+b=parseInt(b);
+
+if(n==1)
+{alert("addition="+(a+b));}
+if(n==2)
+{alert("substraction="+(a-b));}
+if(n==3)
+{alert("multiplication="+(a*b));}
+if(n==4)
+{alert("division="+(a/b));}
+}
+</script>
+</head>
+<body>
+<form name="calc">
+<h1>Calculator</h1>
+First Number :   <input type="number" id="value1"> </br>
+Second Number : <input type="number" id="value2"> </br>
+ </br>
+
+Operations:<select id="value3"><option value="1">Addition</option>
+	<option value="2">Substraction</option>
+	<option value="3">Multiplication</option>
+	<option value="4">Division</option>
+</select>
+
+<input type="button" value="submit" onclick="maths(calc.value1.value,calc.value2.value)">
+</form>
+</body>
+</html>

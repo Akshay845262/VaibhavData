@@ -1,0 +1,40 @@
+﻿@model HelperMethods.Models.Person
+@{
+    ViewBag.Title = "CreatePerson";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreatePerson</title>
+</head>
+<body>
+    <h2>Create Person Form</h2>
+    @using (Html.BeginRouteForm("FormRoute",
+                new {id="MyID" }, FormMethod.Post,
+                new { @class = "personClass", data_formType = "person" }))
+    {
+        <div class="dataElem">
+            <label>PersonId</label>
+            @Html.TextBox("PersonId")
+            @Html.TextBoxFor(t=>t.PersonId)
+        </div>
+        <div class="dataElem">
+            <label>First Name</label>
+            
+            @Html.TextBox("FirstName")
+            @Html.TextBoxFor(f=>f.FirstName)
+        </div>
+        <div class="dataElem">
+            <label>Last Name</label>
+            
+            @Html.TextBox("LastName")
+            @Html.TextBoxFor(l=>l.LastName)
+        </div>
+        <input type="submit" value="Submit" />
+    }
+</body>
+</html>

@@ -1,0 +1,9 @@
+D:\C#\Exercise\Exercise\bin\Debug\Exercise.exe.config
+D:\C#\Exercise\Exercise\bin\Debug\Exercise.exe
+D:\C#\Exercise\Exercise\bin\Debug\Exercise.pdb
+D:\C#\Exercise\Exercise\bin\Debug\SampleLibrary.dll
+D:\C#\Exercise\Exercise\bin\Debug\SampleLibrary.pdb
+D:\C#\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+D:\C#\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\Exercise\obj\Debug\Exercise.exe
+D:\C#\Exercise\Exercise\obj\Debug\Exercise.pdb

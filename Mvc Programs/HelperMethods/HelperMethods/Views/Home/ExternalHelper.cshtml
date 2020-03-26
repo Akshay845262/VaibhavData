@@ -1,0 +1,27 @@
+﻿@model string
+@using HelperMethods.Infrastructure
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ExternalHelper</title>
+</head>
+<body>
+    <div>
+        Here are the Fruits:@Html.ListArrayItems((string[])ViewBag.Fruits)
+         
+    </div>
+    <div>
+        Here are the cities:@Html.ListArrayItems((string[])ViewBag.Cities)
+    </div>
+    <div>
+        Here is the Message
+        <p>@Model</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿@model HelperMethods.Models.Person
+@{
+    ViewBag.Title = "CreatePerson";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreatePerson</title>
+</head>
+<body>
+   <h2>Create Person</h2>
+    <form action="/Home/CreatePerson" method="post">
+        <div class="dataElem">
+            <label>PersonId</label>
+            <input name="PersonId" values="@Model.PersonId"/>
+        </div>
+        <div class="dataElem">
+            <label>First Name</label>
+            <input name="FirstName" values="@Model.FirstName" />
+        </div>
+        <div class="dataElem">
+            <label>Last Name</label>
+            <input name="LastName" values="@Model.LastName" />
+        </div>
+        <div class="dataElem">
+            <label>Role</label>
+            @Html.DropDownListFor(m=>m.Role,new SelectList(Enum.GetNames(typeof(HelperMethods.Models.Role))))
+        </div>
+        <input type="submit" value="Submit"/>
+    </form>
+</body>
+</html>

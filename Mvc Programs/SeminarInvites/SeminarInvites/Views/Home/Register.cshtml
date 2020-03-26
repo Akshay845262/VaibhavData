@@ -1,0 +1,59 @@
+﻿@model SeminarInvites.Models.GuestResponse
+@{
+    //ViewBag.Title = "Register";
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <link href="~/Content/Styles.css" rel="stylesheet"/>
+    <link href="~/Content/bootstrap.css" rel="stylesheet">
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet">
+    <Title>Register</Title>
+</Head>
+<body>
+    <div class="panel panel-success" style="width:50%;position: absolute ;left:350px;top:200px">
+        <div class="panel-heading text-center"><h4>Register</h4></div>
+        <div class="panel-body">
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary()
+                <div class="from-group">
+                  <label>Your name:</label> 
+                  @Html.TextBoxFor(x => x.Name,new { @class="from-control"})
+                </div>
+                <div class="from-group">
+                    <label>Your email:</label> 
+                    @Html.TextBoxFor(x => x.Email, new { @class = "from-control" })
+                </div>
+                <div class="from-group">
+                    <label>Your phone:</label>
+                        @Html.TextBoxFor(x => x.Phone, new { @class = "from-control" })
+                 </div>
+                <div class="from-group">
+                    <label>Will you attend?</label>
+                    @Html.DropDownListFor(x => x.WillAttend, new[]
+                    {
+                        new SelectListItem(){Text ="Yes,I'll be there",Value=bool.TrueString},
+                        new SelectListItem(){Text ="No,I Can't come",Value=bool.FalseString}
+                    }, "Choose an option", new { @class = "from-control" })
+                    
+                </div>
+                <div class="text-center">
+                    <input class="btn btn-success" type="submit" value="submit" />
+
+                    <button onclick="submitForm()">Submit form</button>
+                    <script>
+                        function submitForm() {
+                            if (confirm("Are you sure to submit form")) {
+                                var frm = document.getElementsByTagName("form");
+                                frm[0].submit();
+                            }
+                        }
+                    </script>
+                </div>
+            }
+        </div>
+    </div>
+</body> 
+</html>

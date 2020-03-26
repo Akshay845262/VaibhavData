@@ -1,0 +1,7 @@
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\bin\Debug\DefiningMembersinClass.exe.config
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\bin\Debug\DefiningMembersinClass.exe
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\bin\Debug\DefiningMembersinClass.pdb
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\obj\Debug\DefiningMembersinClass.csprojResolveAssemblyReference.cache
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\obj\Debug\DefiningMembersinClass.csproj.CoreCompileInputs.cache
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\obj\Debug\DefiningMembersinClass.exe
+D:\C#\DefiningMembersinClass\DefiningMembersinClass\obj\Debug\DefiningMembersinClass.pdb

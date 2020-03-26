@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "List";
+    Layout = null;
+}
+<h3>This is the /Views/Shared/List.cshtml View</h3>
+@Html.Partial("MyPartial")
+@{Html.RenderPartial("MyPartial"); }
+@Html.Partial("TypedPartial", new string[] { "Apple", "Orange", "Banana" })
+@{Html.RenderPartial("TypedPartial", new string[] { "Apple", "Orange", "Banana" });}
+
+Calling child action...
+@Html.Action("Time","Home")

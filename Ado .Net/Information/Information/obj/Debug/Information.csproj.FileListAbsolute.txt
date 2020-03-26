@@ -1,0 +1,10 @@
+D:\C#\Information\Information\bin\Debug\Information.exe.config
+D:\C#\Information\Information\bin\Debug\Information.exe
+D:\C#\Information\Information\bin\Debug\Information.pdb
+D:\C#\Information\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+D:\C#\Information\Information\obj\Debug\Information.Form1.resources
+D:\C#\Information\Information\obj\Debug\Information.Properties.Resources.resources
+D:\C#\Information\Information\obj\Debug\Information.csproj.GenerateResource.Cache
+D:\C#\Information\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+D:\C#\Information\Information\obj\Debug\Information.exe
+D:\C#\Information\Information\obj\Debug\Information.pdb

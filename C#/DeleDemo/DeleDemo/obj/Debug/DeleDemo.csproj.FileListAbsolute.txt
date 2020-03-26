@@ -1,0 +1,7 @@
+D:\C#\DeleDemo\DeleDemo\bin\Debug\DeleDemo.exe.config
+D:\C#\DeleDemo\DeleDemo\bin\Debug\DeleDemo.exe
+D:\C#\DeleDemo\DeleDemo\bin\Debug\DeleDemo.pdb
+D:\C#\DeleDemo\DeleDemo\obj\Debug\DeleDemo.csprojResolveAssemblyReference.cache
+D:\C#\DeleDemo\DeleDemo\obj\Debug\DeleDemo.csproj.CoreCompileInputs.cache
+D:\C#\DeleDemo\DeleDemo\obj\Debug\DeleDemo.exe
+D:\C#\DeleDemo\DeleDemo\obj\Debug\DeleDemo.pdb

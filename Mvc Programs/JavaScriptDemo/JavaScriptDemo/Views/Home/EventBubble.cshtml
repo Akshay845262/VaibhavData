@@ -1,0 +1,58 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <style>
+        div {
+            background-color: coral;
+            border: 1px solid;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        This example demonstrate the difference between bubbling and
+        capturing when adding event listeners
+    </p>
+
+    <div id="myDiv">
+        <p id="myP" style="background-color:antiquewhite">
+            Click this paragraph,I am Bubbling
+        </p>
+        <p style="background-color:aliceblue">I am Bubbling</p>
+
+    </div><br>
+
+    <div id="myDiv2">
+        <p id="myP2" style="background-color:antiquewhite">
+            Click this paragraph,I am Capturing
+        </p>
+        <p style="background-color:aliceblue">I am Capturing</p>
+
+    </div>
+    <script>
+    document.getElementById("myP").addEventListener("click", function () {
+        alert("You click the P element!");
+    }, false);
+
+        document.getElementById("myDiv").addEventListener("click", function () {
+            alert("You click the DIV element!");
+    }, false);
+
+        document.getElementById("myP2").addEventListener("click", function () {
+            alert("You click the P element!");
+        }, true);
+
+        document.getElementById("myDiv2").addEventListener("click", function () {
+            alert("You click the DIV element!");
+        }, true);
+    </script>
+    <b>Cognizant Technology Solutions - Directing The Innovation</b>
+</body>
+</html>

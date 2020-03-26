@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<title>Adding External Script</title>
+	
+	<script language = "javascript" src = "message.js"></script>
+	<script language = "javascript">
+		Greet();
+	
+	</script>
+	<script>
+		function showDate()
+		{
+			document.getElementById("display").innerHTML=Date();
+		}
+		square();
+	
+	</script>
+</head>
+<body>
+	<input type="button" value="Click Me" onclick="printMsg()">
+	<br/><br/>
+	<button onclick="showDate()">Show Date</button>
+	<p id="display"></p>
+	<input type="button" value="square" onclick="square()">
+
+</body>
+
+</html>

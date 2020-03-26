@@ -1,0 +1,7 @@
+D:\C#\OutDemo\OutDemo\bin\Debug\OutDemo.exe.config
+D:\C#\OutDemo\OutDemo\bin\Debug\OutDemo.exe
+D:\C#\OutDemo\OutDemo\bin\Debug\OutDemo.pdb
+D:\C#\OutDemo\OutDemo\obj\Debug\OutDemo.csprojResolveAssemblyReference.cache
+D:\C#\OutDemo\OutDemo\obj\Debug\OutDemo.csproj.CoreCompileInputs.cache
+D:\C#\OutDemo\OutDemo\obj\Debug\OutDemo.exe
+D:\C#\OutDemo\OutDemo\obj\Debug\OutDemo.pdb

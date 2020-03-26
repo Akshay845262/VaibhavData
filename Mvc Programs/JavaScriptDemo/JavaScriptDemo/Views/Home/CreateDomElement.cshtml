@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreateDomElement</title>
+</head>
+<body>
+    <div id="div1"> 
+        <p id="p1">This is a paragraph.</p>
+        <p id="p2">This is another paragraph.</p>
+    </div>
+    <script>
+        var para = document.createElement("p");
+        var node = document.createTextNode("This is new.");
+        para.appendChild(node);
+
+        var element = document.getElementById("div1");
+        element.appendChild(para);
+    </script>
+    <b>Cognizant Technology Solutions - Directing The Innovation</b>
+    
+</body>
+</html>

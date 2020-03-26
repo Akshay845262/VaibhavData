@@ -1,0 +1,6 @@
+D:\C#\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+D:\C#\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+D:\C#\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+D:\C#\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+D:\C#\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+D:\C#\bubblesort\bubblesort\obj\Debug\bubblesort.pdb

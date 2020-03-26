@@ -1,0 +1,11 @@
+D:\C#\LMS\LMS\bin\Debug\LMS.exe.config
+D:\C#\LMS\LMS\bin\Debug\LMS.exe
+D:\C#\LMS\LMS\bin\Debug\LMS.pdb
+D:\C#\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+D:\C#\LMS\LMS\obj\Debug\LMS.Form1.resources
+D:\C#\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\C#\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+D:\C#\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+D:\C#\LMS\LMS\obj\Debug\LMS.exe
+D:\C#\LMS\LMS\obj\Debug\LMS.pdb
+D:\C#\LMS\LMS\obj\Debug\LMS.LibraryManagement.resources

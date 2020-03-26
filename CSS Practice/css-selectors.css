@@ -1,0 +1,246 @@
+/* -------------------------------------------------- */
+/* The element with id="Lastname" */
+/* -------------------------------------------------- */
+
+ #Lastname{
+    background-color: yellow;
+    border: 1px solid red;
+} 
+
+/* -------------------------------------------------- */
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with class="intro" */
+/* -------------------------------------------------- */
+
+/* .intro{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+/* -------------------------------------------------- */
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with class="intro", and the element with id="Lastname" */
+/* -------------------------------------------------- */
+/* 
+.intro, #Lastname{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+/* -------------------------------------------------- */
+
+
+
+
+
+/* -------------------------------------------------- */
+/* All <h1> elements */
+/* -------------------------------------------------- */
+
+/* h1{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+/* -------------------------------------------------- */
+
+
+
+
+
+/* -------------------------------------------------- */
+/* All <h1> elements and all <p> elements. */
+/* -------------------------------------------------- */
+
+/* h1,p{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+/* -------------------------------------------------- */
+
+
+
+
+/* -------------------------------------------------- */
+/* All <p> elements that are inside a <div> element. */
+/* -------------------------------------------------- */
+
+/* div p{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+/* -------------------------------------------------- */
+
+
+
+
+/* -------------------------------------------------- */
+/* All <p> elements where the parent is a <div> element with class 'intro'. */
+/* -------------------------------------------------- */
+
+/* 
+div.intro > p{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+
+/* -------------------------------------------------- */
+/* The <p> element that are next to a <ul> elements. */
+/* -------------------------------------------------- */
+
+/* ul + p{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+/* -------------------------------------------------- */
+/* All <table> elements that are siblings of a <ul> element. */
+/* -------------------------------------------------- */
+
+/* ul ~ table{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements. */
+/* -------------------------------------------------- */
+
+/* *{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+/* -------------------------------------------------- */
+/* All <p> elements with class="myquote". */
+/* -------------------------------------------------- */
+
+/* p.myquote{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with an id attribute. */
+/* -------------------------------------------------- */
+
+[id]{
+    background-color: yellow;
+    border: 1px solid red;
+} 
+
+
+
+/* -------------------------------------------------- */
+/* All elements with an id attribute value equal to "my-Address" */
+/* -------------------------------------------------- */
+
+/* [id=my-Address]{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+/* -------------------------------------------------- */
+/* All elements with an id attribute value ending with "ess" */
+/* -------------------------------------------------- */
+/*
+[id$=ess]{
+    background-color: yellow;
+    border: 1px solid red;
+}*/
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with an id attribute value starting with the letter "L" */
+/* -------------------------------------------------- */
+/*
+[id^=L]{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with an id attribute value equal to "my" or starting with "my" followed by a hyphen (-) */
+/* -------------------------------------------------- */
+ /*
+[id|=my]{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with a title attribute value containing the word "beautiful" */
+/* -------------------------------------------------- */
+
+[title~=beautiful]{
+    background-color: yellow;
+    border: 1px solid red;
+}
+
+
+
+
+/* -------------------------------------------------- */
+/* All elements with an id attribute value containing the string "s" */
+/* -------------------------------------------------- */
+
+/* [id*=s]{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+
+
+/* tr:nth-child(odd)
+{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+/* h1:hover{
+    background-color: yellow;
+    border: 1px solid red;
+} */
+
+
+:focus
+{
+    background-color: yellow;
+    border: 1px solid red;
+}

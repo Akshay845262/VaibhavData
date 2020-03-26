@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<body onload="checkCookies()">
+    <p id="demo"></p>
+    <script>
+        function checkCookies() {
+            var text = "";
+            if (navigator.cookieEnabled == true) {
+                text = "Cookies are enabled.";
+            } else {
+                text = "cookies are not enabled.";
+            }
+            document.getElementById("demo").innerHTML = text;
+        }
+    </script>
+    <b>Cognizant Technology Solutions - Directing The Innovation</b>
+</body>
+</html>

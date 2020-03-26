@@ -1,0 +1,7 @@
+D:\C#\CallbyReference\CallbyReference\bin\Debug\CallbyReference.exe.config
+D:\C#\CallbyReference\CallbyReference\bin\Debug\CallbyReference.exe
+D:\C#\CallbyReference\CallbyReference\bin\Debug\CallbyReference.pdb
+D:\C#\CallbyReference\CallbyReference\obj\Debug\CallbyReference.csprojResolveAssemblyReference.cache
+D:\C#\CallbyReference\CallbyReference\obj\Debug\CallbyReference.csproj.CoreCompileInputs.cache
+D:\C#\CallbyReference\CallbyReference\obj\Debug\CallbyReference.exe
+D:\C#\CallbyReference\CallbyReference\obj\Debug\CallbyReference.pdb

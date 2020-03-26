@@ -1,0 +1,2 @@
+D:\C#\MultilevelDemo\MultilevelDemo\obj\Debug\MultilevelDemo.csprojResolveAssemblyReference.cache
+D:\C#\MultilevelDemo\MultilevelDemo\obj\Debug\MultilevelDemo.csproj.CoreCompileInputs.cache

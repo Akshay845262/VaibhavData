@@ -1,0 +1,6 @@
+D:\C#\AnonymousMethodDemo\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.exe.config
+D:\C#\AnonymousMethodDemo\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.exe
+D:\C#\AnonymousMethodDemo\AnonymousMethodDemo\bin\Debug\AnonymousMethodDemo.pdb
+D:\C#\AnonymousMethodDemo\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.csproj.CoreCompileInputs.cache
+D:\C#\AnonymousMethodDemo\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.exe
+D:\C#\AnonymousMethodDemo\AnonymousMethodDemo\obj\Debug\AnonymousMethodDemo.pdb

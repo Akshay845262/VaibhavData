@@ -1,0 +1,30 @@
+﻿@model string
+@{
+    //ViewBag.Title = "Index";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+        Here are the Fruits:
+        @foreach (string str in (string[])ViewBag.Fruits)
+            {
+            <b>@str </b>
+            }
+    </div>
+    <div>
+        Here are the cities:
+        @foreach (string str in (string[])ViewBag.Cities)
+            {
+            <b>@str</b>
+            }
+    </div>
+    <div>
+        Here is the Message
+        <p>@Model</p>
+    </div>
+</body>
+</html>
+
+

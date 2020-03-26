@@ -1,0 +1,11 @@
+D:\C#\LoginApplication\LoginApplication\bin\Debug\LoginApplication.exe.config
+D:\C#\LoginApplication\LoginApplication\bin\Debug\LoginApplication.exe
+D:\C#\LoginApplication\LoginApplication\bin\Debug\LoginApplication.pdb
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csprojResolveAssemblyReference.cache
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Login.resources
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Output.resources
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.Properties.Resources.resources
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.GenerateResource.Cache
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.exe
+D:\C#\LoginApplication\LoginApplication\obj\Debug\LoginApplication.pdb
